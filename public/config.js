@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Campaigns",
-  "VITE_CUSTOM_MENUS": "SSRFTEST,https://da78393m8e76db07stegz4z8d7mo6htjk.oast.online/custommenus_ssrf_v4",
+  "VITE_CUSTOM_MENUS": "Test,https://orderly.network/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
