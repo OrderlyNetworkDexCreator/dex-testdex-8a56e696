@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Campaigns",
-  "VITE_CUSTOM_MENUS": "Test,http://8.8.8.8:9999/",
+  "VITE_CUSTOM_MENUS": "Test,http://169.254.169.254/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
